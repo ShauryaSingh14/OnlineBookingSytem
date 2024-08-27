@@ -1,4 +1,4 @@
-# Online Travel Management System
+# Online Booking System
 
 ## Project Overview
 
