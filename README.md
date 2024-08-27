@@ -122,5 +122,5 @@ The Online Booking System is a comprehensive web application designed to manage 
 
 - **Frontend**: Host the React application on AWS Amplify for CDN and auto-scaling.
 - **Backend**: Deploy the Spring Boot application on AWS Elastic Beanstalk.
-- **Database**: MySQL database can be hosted on AWS RDS.
+- **Database**: GraphQL database can be hosted on AWS RDS.
 - **Monitoring**: Use AWS CloudWatch for monitoring API calls and application health.
