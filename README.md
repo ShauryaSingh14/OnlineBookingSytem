@@ -120,8 +120,3 @@ The Online Travel Management System is a comprehensive web application designed 
 - **Backend**: Deploy the Spring Boot application on AWS Elastic Beanstalk.
 - **Database**: MySQL database can be hosted on AWS RDS.
 - **Monitoring**: Use AWS CloudWatch for monitoring API calls and application health.
-
-
-## Contact
-
-For any queries or support, please contact Shaurya Singh at [shauryasingh9315@gmail.com](mailto:shauryasingh9315@gmail.com).
