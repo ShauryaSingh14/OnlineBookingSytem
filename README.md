@@ -28,8 +28,7 @@ The Online Travel Management System is a comprehensive web application designed 
   - **Spring Boot**: For rapid application development.
   - **Spring Data JPA**: For database interactions.
   - **Spring Security**: For authentication and authorization.
-- **Hibernate**: ORM tool for database operations.
-- **MySQL**: Relational database management.
+- **GraphQL**: Database management.
 - **SMTP Server**: For sending booking confirmation emails.
 
 ### Frontend:
