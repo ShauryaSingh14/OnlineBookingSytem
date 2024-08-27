@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Online Travel Management System is a comprehensive web application designed to manage travel bookings efficiently. The system provides a user-friendly interface for both customers and administrators, enabling them to manage bookings, travel packages, and user profiles seamlessly. This project implements a RESTful API backend and a dynamic frontend to handle all necessary operations.
+The Online Booking System is a comprehensive web application designed to manage travel bookings efficiently. The system provides a user-friendly interface for both customers and administrators, enabling them to manage bookings, travel packages, and user profiles seamlessly. This project implements a RESTful API backend and a dynamic frontend to handle all necessary operations.
 
 ## Features
 
