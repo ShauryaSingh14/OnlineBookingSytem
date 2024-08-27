@@ -35,7 +35,9 @@ The Online Travel Management System is a comprehensive web application designed 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
+- **TypeScript**
 - **React.js**: For creating interactive UIs.
+- **Material UI**
 - **Bootstrap**: For responsive design.
 
 ## Modules
