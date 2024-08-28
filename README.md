@@ -67,8 +67,6 @@ The Online Booking System is a comprehensive web application designed to manage 
    - View and export reports
    - User management with roles and permissions
 
-## AWS Architecture
-![AWS Architecture](https://github.com/user-attachments/assets/f6f11cce-cbe3-42bb-ac74-d1880a358a82)
 
 ## Setup Instructions
 
