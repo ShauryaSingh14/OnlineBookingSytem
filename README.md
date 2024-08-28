@@ -29,12 +29,12 @@ The Online Booking System is a comprehensive web application designed to manage 
   - **Spring Data JPA**: For database interactions.
   - **Spring Security**: For authentication and authorization.
 - **GraphQL**: Database management.
+- **PostgreSQL**
 - **SMTP Server**: For sending booking confirmation emails.
 
 ### Frontend:
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **TypeScript**
 - **React.js**: For creating interactive UIs.
 - **Material UI**
